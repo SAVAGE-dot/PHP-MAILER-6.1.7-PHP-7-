@@ -1,1 +1,2 @@
 # PHP-MAILER-6.1.7-PHP-7-
+**code to implement phpmailer in your service, it is worth clarifying that it is not mine, credits to "https://github.com/PHPMailer/PHPMailer" office page, this is only a reduced version of what you need so that you do not search so much, and that same page You have to download the version that you will use in my case it will be the last one for PHP 7, which is PHPMailer 6.1.7**
