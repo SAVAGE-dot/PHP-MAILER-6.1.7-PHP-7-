@@ -11,7 +11,7 @@ require './PHPMailer-6.1.7/src/SMTP.php';
 $mail = new PHPMailer(true);
 
 $mail->isSMTP(); // Establece el uso de SMTP - Set the use of SMTP
-$mail->Host = 'mail.villachicken.com.pe'; // Configura el servidor SMTP - Configure the SMTP server
+$mail->Host = 'mail.gmail.com.pe'; // Configura el servidor SMTP - Configure the SMTP server
 $mail->SMTPAuth = true; // Habilita la autenticación SMTP - Enable SMTP authentication
 $mail->Username = '-----@email.com'; // Tu dirección de correo electrónico SMTP - Your SMTP email address
 $mail->Password = 'u password'; // Tu contraseña SMTP - Your SMTP password
